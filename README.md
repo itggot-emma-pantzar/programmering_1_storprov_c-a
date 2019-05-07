@@ -116,15 +116,15 @@ Det går att dela upp uppgiften i flera delmål. Arbeta dig igenom delmålen ett
 
 ## Väderdatafilformat
 
-Datafilerna består av en *rad* text per datum.
-Varje rad består av flera *kolumner*, som är separerade med ett eller flera blanksteg.
-Den första *raden* innehåller rubriker för kolumnerna, 
-Den andra *raden* är blank.
-En *rad* per datum följer.
-Första *kolumnen* innehåller datum.
-Andra *kolumnen* innehåller högsta uppmätta temperatur det aktuella datumet
-Tredje *kolumnen* innehåller lägsta uppmätta temperatur det aktuella datumet
-Resten av *kolumnerna* innehåller data vi inte är intresserade av
+Datafilerna består av en *rad* text per datum.  
+Varje rad består av flera *kolumner*, som är separerade med ett eller flera blanksteg.  
+Den första *raden* innehåller rubriker för kolumnerna,  
+Den andra *raden* är blank.  
+En *rad* per datum följer.  
+Första *kolumnen* innehåller datum.  
+Andra *kolumnen* innehåller högsta uppmätta temperatur det aktuella datumet.  
+Tredje *kolumnen* innehåller lägsta uppmätta temperatur det aktuella datumet.  
+Resten av *kolumnerna* innehåller data vi inte är intresserade av. 
 
 De första raderna i filen:
 
