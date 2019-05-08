@@ -58,7 +58,7 @@ Filmen sparas i mp4-formatet. I Classroom finnas en separat inlämningsuppgift d
 * Är all kod indenterad korrekt? 
 * Är det tydliga variabel- och funktionsnamn?
 * Är det någon rad som gör för mycket? 
-* Är alla funktioner dokumenterade? (se inlägget "Dokumentationsstandard" i Classrom och/eller [http://tomdoc.org/](http://tomdoc.org/))
+* Är alla funktioner dokumenterade? (se ["Dokumentation.pdf"](./Dokumentation.pdf))
 
 
 
